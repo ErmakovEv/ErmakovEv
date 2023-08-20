@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WebDeveloper
 ------------
 
+I love programming and creating interesting applications. I enjoy working with JavaScript because it allows me to quickly visualize my ideas. I find it fascinating to work with various APIs and delve into new technologies. 
+
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [ev.s.ermakov@gmail.com](mailto:ev.s.ermakov@gmail.com)
 * 🚀  I'm currently working on [FlyScanner](http://flightradarclone.onrender.com/)
