@@ -8,7 +8,7 @@ I love programming and creating interesting applications. I enjoy working with J
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [ev.s.ermakov@gmail.com](mailto:ev.s.ermakov@gmail.com)
-* 🚀  I'm currently working on [FlyScanner](http://flightradarclone.onrender.com/)
+* 🚀  I'm currently working on [FlyScanner](https://flight.ermakov-evgeny.ru/)
 * 🧠  I'm learning JavaScript, TypeScript, React
 
 ### Skills
