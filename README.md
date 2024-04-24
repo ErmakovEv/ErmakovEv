@@ -12,11 +12,9 @@ I love programming and creating interesting applications. I enjoy working with J
 * 🧠  I'm learning JavaScript, TypeScript, React
 
 ### Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://camo.githubusercontent.com/9a9db11bf682066cca1dfc7a79306f13adcee2df86cf0b88f3f6d9486fefe1c2/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://camo.githubusercontent.com/6e9e2826de266e46d6443ac85bbdbfb992ebaa31648c25500229bd0dfec3eeca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270)
+![ JavaScript ] ( https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E )
+![ TypeScript ] ( https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white )
+![ Реагировать ] ( https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB )
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ermakovev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
