@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WebDeveloper
 ------------
 
-I love programming and creating interesting applications. I enjoy working with JavaScript because it allows me to quickly visualize my ideas. I find it fascinating to work with various APIs and delve into new technologies. If you are tired of looking at boring portfolios, I invite you to my website: :boom::boom::boom: [Portfolio](https://hero-stick.netlify.app/) :boom::boom::boom:
+I love programming and creating interesting applications. I enjoy working with JavaScript because it allows me to quickly visualize my ideas. I find it fascinating to work with various APIs and delve into new technologies. If you are tired of looking at boring portfolios, I invite you to my website: :boom::boom::boom: [Portfolio](https://ermakov-evgeny.ru/) :boom::boom::boom:
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [ev.s.ermakov@gmail.com](mailto:ev.s.ermakov@gmail.com)
-* 🚀  I'm currently working on [FlyScanner](https://ermakov-evgeny.ru/) and [Martin-garage](https://martin-garage.ru/)
+* 🚀  I'm currently working on [FlyScanner](https://flight.ermakov-evgeny.ru/) and [Martin-garage](https://martin-garage.ru/)
 * 🧠  I'm learning JavaScript, TypeScript, React
 
 ### Skills
